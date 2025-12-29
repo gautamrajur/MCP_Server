@@ -54,16 +54,6 @@ Add to Claude Desktop config (`~/Library/Application Support/Claude/claude_deskt
 }
 ```
 
-## Usage
-
-**In Claude Desktop:**
-
-- Ask: "What's the weather in Boston?"
-- Ask: "When does the sun rise in Tokyo?"
-- Ask: "Add London to my favorites"
-- Click 📎 to view Weather History or Favorite Cities
-- Click ✨ to use weather_report or compare_cities prompts
-
 ## File Structure
 ```
 .
