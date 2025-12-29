@@ -1,0 +1,38 @@
+[
+  {
+    "city": "Boston",
+    "temp": 7.43,
+    "description": "overcast clouds",
+    "timestamp": "2025-12-29T18:36:06.391433"
+  },
+  {
+    "city": "Tokyo",
+    "temp": 7.57,
+    "description": "few clouds",
+    "timestamp": "2025-12-29T18:40:19.072398"
+  },
+  {
+    "city": "Boston",
+    "temp": 6.89,
+    "description": "overcast clouds",
+    "timestamp": "2025-12-29T18:41:58.804233"
+  },
+  {
+    "city": "Tokyo",
+    "temp": 7.57,
+    "description": "few clouds",
+    "timestamp": "2025-12-29T18:42:23.116098"
+  },
+  {
+    "city": "London",
+    "temp": 5.68,
+    "description": "broken clouds",
+    "timestamp": "2025-12-29T18:43:13.147911"
+  },
+  {
+    "city": "Paris",
+    "temp": 3.22,
+    "description": "overcast clouds",
+    "timestamp": "2025-12-29T18:45:04.027629"
+  }
+]
